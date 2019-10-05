@@ -1,0 +1,6 @@
+{
+  "/": {
+    "target": "http://myDomain:4444",
+    "secure": true
+  }
+}
